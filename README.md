@@ -2,9 +2,10 @@
 
 A simple URL shortener built with **React, Vite, TypeScript, and Material UI**.  
 It allows shortening multiple URLs, adding custom short codes, setting expiry time, and tracking clicks.
-![image alt](Screenshot 2025-09-05 221556.png)
-![image alt](Screenshot 2025-09-05 223544.png)
-![image alt](Screenshot 2025-09-05 223940.png)
+![image alt](https://github.com/Shannu1695/221FA04625_SHANNU/blob/c4a7ae563b9e64e7e13d430ee1c2714f7bab4008/Screenshot%202025-09-05%20221556.png)
+![image alt](https://github.com/Shannu1695/221FA04625_SHANNU/blob/c4a7ae563b9e64e7e13d430ee1c2714f7bab4008/Screenshot%202025-09-05%20223325.png)
+![image alt](https://github.com/Shannu1695/221FA04625_SHANNU/blob/c4a7ae563b9e64e7e13d430ee1c2714f7bab4008/Screenshot%202025-09-05%20223544.png)
+![image alt](https://github.com/Shannu1695/221FA04625_SHANNU/blob/c4a7ae563b9e64e7e13d430ee1c2714f7bab4008/Screenshot%202025-09-05%20223940.png)
 ---
 
 ## Features
