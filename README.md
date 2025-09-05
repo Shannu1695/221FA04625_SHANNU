@@ -1,36 +1,30 @@
-# 🔗 URL Shortener
+# Affordmed URL Shortener
 
-A simple and efficient URL Shortener web application that allows users to convert long URLs into short, shareable links.  
-Built with **React (Frontend)** and **Node.js/Express (Backend)**, and uses **MongoDB** for storing and retrieving shortened URLs.
-
----
-
-## 🚀 Features
-- Shorten long URLs into compact links
-- Redirect users to the original URL
-- Copy shortened URLs with one click
-- Simple and responsive UI
-- Stores and manages links in a database
-- Logs user activity for analytics
+A simple URL shortener built with **React, Vite, TypeScript, and Material UI**.  
+It allows shortening multiple URLs, adding custom short codes, setting expiry time, and tracking clicks.
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:**
-- React.js
-- Material-UI / TailwindCSS (choose based on your setup)
-
-**Backend:**
-- Node.js
-- Express.js
-
-**Database:**
-- MongoDB (Atlas or Local)
-
-**Other Tools:**
-- Git & GitHub for version control
-- Vite / Webpack for bundling
+## Features
+- Shorten up to **5 URLs at once**
+- **Custom short codes** (auto-generated if empty)
+- **Default expiry** of 30 minutes if not provided
+- **Redirects** using short code (/:code)
+- **Click tracking** with time, referrer, and timezone
+- **Statistics page** to view URLs and their click counts
+- **Logs stored in localStorage**
+- UI built only with **Material UI**
 
 ---
 
-## 📂 Project Structure
+## Installation
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+<img width="1919" height="1014" alt="Screenshot 2025-09-05 221556" src="https://github.com/user-attachments/assets/b97d555c-c9a3-4ec2-9b33-123728c44e05" />
+<img width="1919" height="1014" alt="Screenshot 2025-09-05 221556" src="https://github.com/user-attachments/assets/9d2b3576-6569-4f3f-a0ea-f98da4171880" />
+![image alt]()
